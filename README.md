@@ -12,6 +12,11 @@ Currently this repository contains following images:
 Both images **extend** the `jboss/base:latest` image and add latest Oracle JDK distribution for selected version. 
 Additionally a `JAVA_HOME` environment variable is set.
 
+### Build
+
+docker build --tag coy/centos7-jdk7:7u79 . 
+docker build --tag coy/centos7-jdk7:latest . 
+
 ## Issues
 
 All issues should be reported in the [GitHub issue tracker](https://github.com/sfcoy/centos7-oracle-jdk/issues).
