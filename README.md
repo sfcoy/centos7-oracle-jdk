@@ -14,8 +14,8 @@ Additionally a `JAVA_HOME` environment variable is set.
 
 ### Build
 
-docker build --tag coy/centos7-jdk:8u60 . 
-docker build --tag coy/centos7-jdk:latest . 
+docker build --tag coy/centos7-jdk8:8u60 . 
+docker build --tag coy/centos7-jdk8:latest . 
 
 ## Issues
 
