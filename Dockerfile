@@ -4,7 +4,7 @@ MAINTAINER Stephen Coy steve.coy@me.com
 # User root user to install software
 USER root
 
-ENV JDK_VERSION=8u60 JDK_BUILD=b27
+ENV JDK_VERSION=8u65 JDK_BUILD=b17
 
 # Install necessary packages
 RUN curl --remote-name --silent --insecure --location --cookie "oraclelicense=accept-securebackup-cookie" \
