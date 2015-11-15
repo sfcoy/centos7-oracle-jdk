@@ -14,8 +14,8 @@ Additionally a `JAVA_HOME` environment variable is set.
 
 ### Build
 
-docker build --tag coy/centos7-jdk7:7u79 . 
-docker build --tag coy/centos7-jdk7:latest . 
+docker build --tag personal/centos7-jdk7:7u79 . 
+docker build --tag personal/centos7-jdk7:latest . 
 
 ## Issues
 
