@@ -14,8 +14,8 @@ Additionally a `JAVA_HOME` environment variable is set.
 
 ### Build
 
-docker build --tag personal/centos7-jdk8:8u65 . 
-docker build --tag personal/centos7-jdk8:latest . 
+    docker build --tag personal/centos7-jdk8:8u65 . 
+    docker build --tag personal/centos7-jdk8:latest . 
 
 ## Issues
 
